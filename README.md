@@ -4,7 +4,7 @@ Welcome to **LuxeCart **, an eCommerce platform offering a wide selection of pro
 
 ## 🌐 Live Website
 
-You can visit the live website here: [LuxeCart](https://forever-ecom.netlify.app/)
+You can visit the live website here: [LuxeCart](https://theluxecart.vercel.app/)
 
 ## 📋 Features
 
@@ -44,17 +44,17 @@ You can visit the live website here: [LuxeCart](https://forever-ecom.netlify.app
 
 
 - **Deployment**:
-  - [Netlify](https://www.netlify.com/) for fast and reliable hosting.
+  - [Vercel](https://www.vercel.com/) for fast and reliable hosting.
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/faisal-din/forever-eCommerce-website-
+    git clone https://github.com/KrunalSavaj/Ecommerce_LuxeCart.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd forever-ecom
+    cd Ecommerce_LuxeCart
     ```
 3. Install dependencies:
     ```bash
